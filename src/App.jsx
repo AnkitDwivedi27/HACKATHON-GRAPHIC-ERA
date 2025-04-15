@@ -42,7 +42,7 @@ export default function App() {
 
      
       <div className="bg-primary text-light p-3 m-2 rounded">
-        This is a primary background with light text.
+        This is a primary background with light text hello.
       </div>
 
       <div className="bg-accent text-dark p-3 m-2 rounded">
